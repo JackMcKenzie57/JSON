@@ -1,11 +1,134 @@
 {
-  "posts": [
+  "pages": [
     {
       "id": 1,
-      "title": "hello"
+      "page": 1,
+      "totalpages": 3,
+      "albums": [
+        {
+          "artist": "Boris",
+          "album": "Akuma No Uta"
+        },
+
+        {
+          "artist": "Andrew Bird",
+          "album": "the Mysterious Production of Eggs"
+        },
+
+        {
+          "artist": "Radiohead",
+          "album": "OK Computer"
+        },
+        {
+          "artist": "Radiohead",
+          "album": "Kid A"
+        },
+        {
+          "artist": "Radiohead",
+          "album": "In Rainbows"
+        },
+        {
+          "artist": "Radiohead",
+          "album": "The Bends"
+        },
+        {
+          "artist": "Radiohead",
+          "album": "Amnesiac"
+        }
+
+
+      ]
+    },
+
+
+    {
+      "id": 2,
+      "page": 2,
+      "totalpages": 3,
+      "albums": [
+        {
+          "artist": "Radiohead",
+          "album": "Pablo Honey"
+        },
+
+        {
+          "artist": "Max Tundra",
+          "album": "Mastered by the Guy at the Exchange"
+        },
+
+        {
+          "artist": "Stars of the Lid",
+          "album": "Tired Sounds"
+        },
+        {
+          "artist": "U2",
+          "album": "The Joshua Tree"
+        },
+        {
+          "artist": "U2",
+          "album": "War"
+        },
+        {
+          "artist": "U2",
+          "album": "Rattle and Hum"
+        },
+        {
+          "artist": "Tame Impala",
+          "album": "Currents"
+        }
+
+
+      ]
+    },
+
+    {
+      "id": 3,
+      "page": 3,
+      "totalpages": 3,
+      "albums": [
+        {
+          "artist": "The Thermals",
+          "album": "The Body, The Blood"
+        },
+
+        {
+          "artist": "",
+          "album": "Mastered by the Guy at the Exchange"
+        },
+
+        {
+          "artist": "Green Day",
+          "album": "American Idiot"
+        },
+        {
+          "artist": "Green Day",
+          "album": "Dookie"
+        },
+        {
+          "artist": "Green Day",
+          "album": "Nimrod"
+        },
+        {
+          "artist": "Warning",
+          "album": "The Bends"
+        },
+        {
+          "artist": "Green Day",
+          "album": "Insomniac"
+        },
+        {
+          "artist": "Tame Impala ",
+          "album": "Innerspeaker"
+        }
+
+
+
+
+
+      ]
+
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+
+

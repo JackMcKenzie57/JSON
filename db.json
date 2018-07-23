@@ -1,6 +1,7 @@
 {
   "pages": [
     {
+      "id": 1,
       "page": 1,
       "totalpages": 3,
       "albums": [
@@ -41,6 +42,7 @@
 
 
     {
+      "id": 2,
       "page": 2,
       "totalpages": 3,
       "albums": [
@@ -80,6 +82,7 @@
     },
 
     {
+      "id": 3,
       "page": 3,
       "totalpages": 3,
       "albums": [
@@ -125,7 +128,11 @@
       ]
 
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
 
 
